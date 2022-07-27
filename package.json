@@ -1,0 +1,25 @@
+{
+  "name": "testapp",
+  "version": "1.0.0",
+  "description": "A test app to learn webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Skycader/TestApp.git"
+  },
+  "author": "Skycader",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Skycader/TestApp/issues"
+  },
+  "homepage": "https://github.com/Skycader/TestApp#readme",
+  "dependencies": {
+    "jquery": "^3.6.0"
+  },
+  "devDependencies": {
+    "webpack": "^5.74.0"
+  }
+}
